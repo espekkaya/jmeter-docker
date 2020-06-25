@@ -1,6 +1,6 @@
 # jmeter-docker
 
-This dockerize project special form of justb4/docker-jmeter. I have just added jmeter plugins and some spesific improvements.
+This dockerize project is special form of justb4/docker-jmeter. I have just added jmeter plugins and some spesific improvements.
 
 ## Image on Docker Hub
 
